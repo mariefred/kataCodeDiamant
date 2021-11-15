@@ -6,7 +6,7 @@ namespace KataDuDiamant
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Diamant!");
 
             var diamantDeLettre = new DiamantDeLettre();
             string resultatPrintDiamant;

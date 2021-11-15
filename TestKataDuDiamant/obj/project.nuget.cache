@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jKHfV8XXpQZmnWXEQDCH6eknb++G3GatJrwhy9IWm+fGsZf+oSNrwQ6fioEvmgx6+KTOJjvRGARJBdP65vqO4Q==",
+  "dgSpecHash": "+ZEbi+tRGmXFBwLkGtHushGepp388S1GAeLIoXrQA7E8gtSfBkfCBE5GghSwpUvnnlVhnJdgQd2kHgAHJFt7og==",
   "success": true,
-  "projectFilePath": "C:\\Tech_Informatique\\Aut_2021\\Conception_qualite_logiciel\\KataDuDiamant\\TestKataDuDiamant\\TestKataDuDiamant.csproj",
+  "projectFilePath": "C:\\Tech_Informatique\\Aut_2021\\kataCodeDiamant\\TestKataDuDiamant\\TestKataDuDiamant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marie\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\marie\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
