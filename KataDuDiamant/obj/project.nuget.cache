@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OMw23UU9FydhfA8zTngWupNtTaR1RB5LlquYE4CnXqG8tIAPfAs48zGX4f8jNiQd0EugrIhv09PYoOmqeFqKRg==",
+  "success": true,
+  "projectFilePath": "C:\\Tech_Informatique\\Aut_2021\\Conception_qualite_logiciel\\KataDuDiamant\\KataDuDiamant\\KataDuDiamant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\marie\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

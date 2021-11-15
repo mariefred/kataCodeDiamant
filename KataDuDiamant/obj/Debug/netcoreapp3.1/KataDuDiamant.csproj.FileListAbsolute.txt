@@ -1,0 +1,14 @@
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\bin\Debug\netcoreapp3.1\KataDuDiamant.exe
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\bin\Debug\netcoreapp3.1\KataDuDiamant.deps.json
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\bin\Debug\netcoreapp3.1\KataDuDiamant.runtimeconfig.json
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\bin\Debug\netcoreapp3.1\KataDuDiamant.runtimeconfig.dev.json
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\bin\Debug\netcoreapp3.1\KataDuDiamant.dll
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\bin\Debug\netcoreapp3.1\KataDuDiamant.pdb
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\obj\Debug\netcoreapp3.1\KataDuDiamant.csproj.AssemblyReference.cache
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\obj\Debug\netcoreapp3.1\KataDuDiamant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\obj\Debug\netcoreapp3.1\KataDuDiamant.AssemblyInfoInputs.cache
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\obj\Debug\netcoreapp3.1\KataDuDiamant.AssemblyInfo.cs
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\obj\Debug\netcoreapp3.1\KataDuDiamant.csproj.CoreCompileInputs.cache
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\obj\Debug\netcoreapp3.1\KataDuDiamant.dll
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\obj\Debug\netcoreapp3.1\KataDuDiamant.pdb
+C:\Tech_Informatique\Aut_2021\Conception_qualite_logiciel\KataDuDiamant\KataDuDiamant\obj\Debug\netcoreapp3.1\KataDuDiamant.genruntimeconfig.cache
