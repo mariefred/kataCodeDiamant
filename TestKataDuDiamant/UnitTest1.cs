@@ -48,7 +48,7 @@ namespace TestKataDuDiamant
 
             string[] lignesResultat = resultatPrintDiamant.Split("\n\r");
 
-            Assert.AreEqual(6, lignesResultat.Length);
+            Assert.AreEqual(8, lignesResultat.Length);
 
         }
 
