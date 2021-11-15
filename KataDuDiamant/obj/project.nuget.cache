@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "r09KCM2pHjO0HYQVI3fbCXrrwkwg+yyp+inHYIjJK/D/G0p8/C1W0Asy837EZRzn21eyqvH9wsIMZ/vnvwgjDQ==",
+  "dgSpecHash": "fm3UZkAZR8GK/tNRz/ssgtl3Ce180U0eBbouOswejCfzmP/p1kfczps43bpZ3DdBYjNwI8aRRqtGMYO8ic+EhQ==",
   "success": true,
   "projectFilePath": "C:\\Tech_Informatique\\Aut_2021\\kataCodeDiamant\\KataDuDiamant\\KataDuDiamant.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\marie\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.20\\microsoft.netcore.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\marie\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.20\\microsoft.aspnetcore.app.runtime.win-x64.3.1.20.nupkg.sha512",
     "C:\\Users\\marie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\marie\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.20\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.20.nupkg.sha512",
     "C:\\Users\\marie\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []

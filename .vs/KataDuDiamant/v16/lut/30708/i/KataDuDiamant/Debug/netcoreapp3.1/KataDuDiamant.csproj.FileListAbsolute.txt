@@ -1,0 +1,12 @@
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\b\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.exe
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\b\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.deps.json
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\b\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.runtimeconfig.json
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\b\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.runtimeconfig.dev.json
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\b\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.dll
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\i\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.csproj.AssemblyReference.cache
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\i\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\i\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.AssemblyInfoInputs.cache
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\i\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.AssemblyInfo.cs
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\i\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.csproj.CopyComplete
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\i\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.dll
+C:\Tech_Informatique\Aut_2021\kataCodeDiamant\.vs\KataDuDiamant\v16\lut\0\i\KataDuDiamant\Debug\netcoreapp3.1\KataDuDiamant.genruntimeconfig.cache
